@@ -25,4 +25,4 @@ cd ..
 export GET_TVSHOW_TOTAL_LENGTH_BIN="$EXECUTABLE_PATH"
 echo "An environment variable was set: $GET_TVSHOW_TOTAL_LENGTH_BIN"
 
-echo "Now can run the script. For example: python3 tv-time.py < tv-shows.txt" 
+echo "Now you can run the script. For example: python3 tv-time.py < tv-shows.txt" 
