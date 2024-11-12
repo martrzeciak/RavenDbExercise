@@ -10,7 +10,7 @@ To build a .NET project, install all dependencies and set the environment variab
 
 To run python script:
 ```bash
-python3 tv-time.py < tv_shows.txt  
+python3 tv-time.py < tv-shows.txt  
 ```
 
 **OS:**  Ubuntu 24.10 | **.NET**  8.0 | **Python**  3.12.3  
