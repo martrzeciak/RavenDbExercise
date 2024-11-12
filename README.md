@@ -1,4 +1,4 @@
-To build a .NET project, install all dependencies and set the environment variables, please run:
+To build a .NET project, install all dependencies and set the environment variable, please run:
 1. Make sure that the `build.sh` script is executable:
     ```bash
     chmod +x build.sh
