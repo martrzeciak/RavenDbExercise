@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "TvShowLength.sln",
+    "files.exclude": {
+        "**/.git": false
+    }
+}
