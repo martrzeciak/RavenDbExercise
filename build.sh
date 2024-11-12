@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Exit immediately if a command exits with a non-zero status
 set -e
 
@@ -9,7 +11,7 @@ echo "Building the C# application..."
 dotnet build -c Release
 
 # Get the path to the compiled binary
-EXECUTABLE_PATH="$(pwd)/bin/Debug/net8.0/TvShowLength" 
+EXECUTABLE_PATH="$(pwd)/bin/Release/net8.0/TvShowLength" 
 
 # Check if the executable was successfully built
 if [ ! -f "$EXECUTABLE_PATH" ]; then
