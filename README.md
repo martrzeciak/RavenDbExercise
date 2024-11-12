@@ -12,5 +12,6 @@ To run python script:
 ```bash
 python3 tv-time.py < tv-shows.txt  
 ```
+Note: The environment variable will be set only for the current terminal session.
 
 **OS:**  Ubuntu 24.10 | **.NET**  8.0 | **Python**  3.12.3  
